@@ -1,4 +1,4 @@
-# AWS-AUTOMATE_Mini-Project
+# AWS_MASS_EMAILING
 
 ![AWS Logo](AWS-logo-2.jpg)
 
