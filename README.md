@@ -32,7 +32,7 @@ Follow these steps to set up email automation in AWS:
 
 1. **Clone the Repository:**
 
-git clone https://github.com/RatnalaRaja/AWS-AUTOMATE_Mini-Project.git
+git clone https://github.com/21A91A6120/AWS-MASS-EMAILING.git
 
 cd AWS-AUTOMATE_Mini-Project
 
